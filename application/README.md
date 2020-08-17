@@ -2,7 +2,7 @@
 
 This is the folder where we find Smart Y Application Files
 
-## Responses
+## Lesson Response
 
 use the Following Headers:
 
